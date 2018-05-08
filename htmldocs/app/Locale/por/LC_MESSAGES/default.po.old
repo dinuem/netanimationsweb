@@ -1,0 +1,214 @@
+#MENU
+msgid 	"animations"
+msgstr 	"Animações"
+
+msgid 	"about"
+msgstr 	"Sobre"
+
+msgid 	"contact"
+msgstr 	"Contato"
+
+msgid 	"help"
+msgstr 	"Ajuda"
+
+msgid   "sitemap"
+msgstr  "Mapa do Site"
+
+msgid   "app"
+msgstr  "Aplicativo Móvel"
+
+msgid 	"language"
+msgstr 	"pt-br"
+
+#APP CONF
+msgid 	"appTitle"
+msgstr 	"Repositório de Objetos de Aprendizagem"
+
+msgid 	"appSubtitle"
+msgstr 	"Disciplina: Rede de Computadores"
+
+msgid 	"textExplain"
+msgstr 	"Aqui você irá encontrar animações que simulam alguns processos complexos e de difícil compreensão da disciplina de Rede de Computadores. \n Essas animações foram desenvolvidas com o intuito de facilitar a compreensão dos discentes e estimular o interesse na disciplina."
+
+msgid	"clickToStart"
+msgstr	"Para navegar pela animação utilize o controle acima ou as setas do teclado e a tecla espaço para ativar/desativar o áudio."
+
+msgid	"btnContinue"
+msgstr	"Continuar"
+
+msgid "contactTitle"
+msgstr "Entre em contato"
+
+msgid "textContactExplain"
+msgstr "Todos os campos devem ser preenchidos"
+
+msgid "name"
+msgstr "Nome"
+
+msgid "reason"
+msgstr "Motivo do contato"
+
+msgid "message"
+msgstr "Mensagem"
+
+msgid "aboutTitle"
+msgstr "Sobre o repositório"
+
+msgid "aboutDescription"
+msgstr "O repositório foi construído com objetivo de disponibilizar as animações em domínio público. Você pode contribuir com sugestões, correções, e ideias para novas animações por meio da página de contato."
+
+msgid "helpTitleKey"
+msgstr "Teclas de atalho"
+
+msgid "helpTitleAudio"
+msgstr "Áudio"
+
+msgid "hotkeysHome"
+msgstr "[Tecla de Acesso]+[1] -> Página inicial"
+
+msgid "hotkeysReset"
+msgstr "[Tecla de Acesso]+[5] -> Reiniciar animação"
+
+msgid "hotkeysBack"
+msgstr "[Tecla de Acesso]+[3] -> Voltar um passo"
+
+msgid "hotkeysNext"
+msgstr "[Tecla de Acesso]+[2] -> Próximo passo"
+
+msgid "hotkeysAudio"
+msgstr "[Tecla de Acesso]+[4] -> Ligar/Desligar áudio"
+
+msgid "keyDescription"
+msgstr "É possível navegar pelas animações por meio das teclas das setas do teclado e ativar/desativar o som pela tecla espaço. Porém, se você estiver utilizando leitor de tela os seguintes atalhos estão disponíveis por meio do atributo accesskey:"
+
+msgid "audioDescription"
+msgstr "O controle de áudio funciona da seguinte maneira:"
+
+msgid "listAudio1"
+msgstr "O usuário pode ativar/desativar o áudio a qualquer momento."
+
+msgid "listAudio2"
+msgstr "Se o áudio for desligado no meio de um passo de animação, ou seja, durante sua reprodução, o áudio será reiniciado, se for ativado novamente durante a mesma etapa."
+
+msgid "listAudio3"
+msgstr "Ao término da execução do áudio de um passo, caso o usuário deseje ouvir novamente, basta ativar/desativar o áudio que ele irá recomeçar."
+
+msgid  "ownerDescription"
+msgstr "Idealizadoras do projeto"
+
+msgid "member1Description"
+msgstr "Colaborou com a criação do repositório e das animações: Domain Name System, Roteamento Hierárquico e Subredes"
+
+msgid "member2Description"
+msgstr "Colaborou com o desenvolvimento das animações: O Modelo Híbrido, o processo de Three-way Handshake do TCP, o Protocolo Aloha Puro, o Protocolo Ethernet, TCP – número de sequência e de reconhecimento"
+
+msgid "member3Description"
+msgstr "Colaborou com a inclusão de acessibilidade audiovisual no repositório"
+
+#BUSINESS MESSAGES
+msgid "email-empty-fields"
+msgstr "Existem campos em branco"
+
+msgid "email-success"
+msgstr "Email enviado com sucesso!"
+
+msgid "email-error"
+msgstr "Ocorreu um erro ao enviar o e-mail"
+
+msgid "doubt"
+msgstr "dúvida"
+
+msgid "suggestion"
+msgstr "sugestão"
+
+msgid "error"
+msgstr "erro"
+
+
+#ANIMATIONS
+msgid	"animationDNSTitle"
+msgstr	"Domain Name System"
+
+msgid 	"animationDNSText"
+msgstr	"O serviço de Nomes da Internet utilizado para realizar a tradução de endereços IP."
+
+msgid	"animationSubnetsTitle"
+msgstr	"Sub-redes"
+
+msgid	"animationSubnetsText"
+msgstr	"A importância da utilização da máscara de rede para criação de sub-redes lógicas."
+
+msgid	"animationHierarchicalRoutingTitle"
+msgstr	"Roteamento Hierárquico"
+
+msgid	"animationHierarchicalRoutingText"
+msgstr	"Roteamento intra e inter AS na Internet com RIP e BGP."
+
+msgid	"animationHybridModelTitle"
+msgstr 	"O modelo Híbrido"
+
+msgid	"animationHybridModelText"
+msgstr 	"Processo de encapsulamento e desencapsulamento realizado durante o envio de uma mensagem."
+
+msgid	"animationThreeWayHandshakeTittle"
+msgstr	"Three-way Handshake"
+
+msgid	"animationThreeWayHandshakeText"
+msgstr 	"Processo de estabelecimento de conexão TCP."
+
+msgid	"animationAlohaTitle"
+msgstr	"Protocolo Aloha Puro"
+
+msgid	"animationAlohaText"
+msgstr	"Resolvendo problemas de alocação de canais sem fio na camada de enlace."
+
+msgid	"animationEthernetTitle"
+msgstr	"Protocolo Ethernet"
+
+msgid	"animationEthernetText"
+msgstr	"Funcionamento do protocolo de enlace padrão das redes com fio."
+
+msgid	"animationSequenceNumberTitle"
+msgstr	"Número de sequência e de reconhecimento"
+
+msgid	"animationSequenceNumberText"
+msgstr	"Dois campos importantes do cabeçalho TCP."
+
+msgid   "youAreIn"
+msgstr  "Você está em: "
+
+msgid "aboutApp"
+msgstr "Sobre o aplicativo"
+
+msgid "aboutApp1"
+msgstr "O aplicativo "Netanimations" foi desenvolvido pelos alunos Jonathan Rodrigues de Oliveira, Alisson Renan Svaigen e Eduardo Sutil de Oliveira."
+
+msgid "aboutApp2"
+msgstr "Atualmente, ele é disponibilizado para dispositivos om o sistema operacional Android."
+
+msgid "features"
+msgstr "Características do aplicativo:"
+
+msgid "feature1"
+msgstr "Formato responsivo de animações;"
+
+msgid "feature2"
+msgstr "Apresentaçã9 animaç�s;"
+
+msgid "feature3"
+msgstr "Audiodescrição das animações, ativada pelo menu de configurações."
+
+msgid "download"
+msgstr "Download"
+
+msgid "aboutDown1"
+msgstr "Faça o <i>download</i> do arquivo "
+
+msgid "aboutDown2"
+msgstr " para o seu celular, e realize a sua instalação. É importante dizer que para a instalação do aplicativo, é necessário ativar a funcionalidade de "instalação de aplicativos de fontes desconhecidas", saiba mais aqui:"
+
+msgid "aboutDown3"
+msgstr "Motivamos os usuários a testarem o aplicativo e reportarem os problemas encontrados pela página de "Contato" deste repositório."
+
+msgid "aboutDown4"
+msgstr "Bom estudo!"

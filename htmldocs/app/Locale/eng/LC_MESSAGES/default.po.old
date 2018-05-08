@@ -1,0 +1,214 @@
+#APP CONF
+msgid 	"animations"
+msgstr  "Animations"
+
+msgid 	"about"
+msgstr  "About"
+
+msgid 	"contact"
+msgstr  "Contact"
+
+msgid   "help"
+msgstr  "Help"
+
+msgid   "sitemap"
+msgstr  "Site map"
+
+msgid   "app"
+msgstr  "Mobile App"
+
+msgid 	"language"
+msgstr  "en"
+
+msgid 	"textExplain"
+msgstr 	"Here you will find some animations that simulate some complex processes about the discipline of Computer Network. These animations were developed in order to facilitate students' understanding and stimulate interest in the discipline."
+
+msgid 	"appTitle"
+msgstr 	"Learning Object Repository"
+
+msgid 	"appSubtitle"
+msgstr 	"Discipline: Computer Networking"
+
+msgid	"clickToStart"
+msgStr	"To navigate through the animation use the control above or the arrow keys and the spacebar to activate/deactivate the audio."
+
+msgid	"btnContinue"
+msgstr	"Continue"
+
+msgid "contactTitle"
+msgstr "Contact"
+
+msgid "textContactExplain"
+msgstr "All data should be filled"
+
+msgid "name"
+msgstr "Name"
+
+msgid "reason"
+msgstr "Reason"
+
+msgid "message"
+msgstr "Message"
+
+msgid "aboutTitle"
+msgstr "About the repository"
+
+msgid "aboutDescription"
+msgstr "This repository was built with the purpose of providing the animations in the public domain. You can contribute with suggestions, corrections, and ideas for new animations via the contact page."
+
+msgid "helpTitle"
+msgstr "Hotkeys"
+
+msgid "helpTitleKey"
+msgstr "Access Key"
+
+msgid "helpTitleAudio"
+msgstr "Audio"
+
+msgid "hotkeysHome"
+msgstr "[Access key]+[1] -> Home"
+
+msgid "hotkeysReset"
+msgstr "[Access key]+[5] -> Reset animation"
+
+msgid "hotkeysBack"
+msgstr "[Access key]+[3] -> Previous step"
+
+msgid "hotkeysNext"
+msgstr "[Access key]+[2] -> Next step"
+
+msgid "hotkeysAudio"
+msgstr "[Access key]+[4] -> Turn on/off audio"
+
+msgid "keyDescription"
+msgstr "You can navigate the animations with the arrows keys of the keyboard  and turn on /off  the sound with space key. However, if you are using screen reader the following shortcuts are available through the accesskey attribute:"
+
+msgid "audioDescription"
+msgstr "The audio control works as follows:"
+
+msgid "listAudio1"
+msgstr "The user can turn on / off the audio at any time."
+
+msgid "listAudio2"
+msgstr "If audio turns off in the middle of a step of animation, ie during reproduction, the audio will be restarted if activated again during the same step."
+
+msgid "listAudio3"
+msgstr "At the end of audio execution of a step, if the user wants to listen again, just turn on / off the audio that it will restart."
+
+msgid  "ownerDescription"
+msgstr "Founders and owners of the project"
+
+msgid "member1Description"
+msgstr "Collaborated with repository creation and animation: Domain Name System, Hierarchical Routing and Subnets"
+
+msgid "member2Description"
+msgstr "Collaborated with the animations: The Hybrid Model, the process of three-way TCP handshake, the Pure Aloha Protocol, the Protocol Ethernet, TCP - sequence number and acknowledgment"
+
+msgid "member3Description"
+msgstr "Collaborated with the beginning of inclusion audiovisual accessibility  in the repository"
+
+#BUSINESS MESSAGES
+msgid "email-empty-fields"
+msgstr "There are blank fields"
+
+msgid "email-success"
+msgstr "Email sent successfully!"
+
+msgid "email-error"
+msgstr "An error occurred while sending the email"
+
+msgid "doubt"
+msgid "suggestion"
+msgid "error"
+
+
+#ANIMATIONS
+msgid	"animationDNSTitle"
+msgstr	"Domain Name System"
+
+msgid	"Dns"
+msgstr	"Domain Name System"
+
+msgid 	"animationDNSText"
+msgstr	"The Internet Name Service used to perform IP address translation."
+
+msgid	"animationSubnetsTitle"
+msgstr	"Subnets"
+
+msgid	"animationSubnetsText"
+msgstr	"The importance of using the network mask for creating logical subnets."
+
+msgid	"animationHierarchicalRoutingTitle"
+msgstr	"Hierarchical Routing"
+
+msgid	"animationHierarchicalRoutingText"
+msgstr	"Intra and inter-AS routing in the Internet with RIP and BGP."
+
+msgid	"animationHybridModelTitle"
+msgstr 	"The Hybrid Model"
+
+msgid	"animationHybridModelText"
+msgstr 	"Process of encapsulation and decapsulation performed while sending a message."
+
+msgid	"animationThreeWayHandshakeTittle"
+msgstr	"Three-way Handshake"
+
+msgid	"animationThreeWayHandshakeText"
+msgstr 	"Process of TCP connection establishment."
+
+msgid	"animationAlohaTitle"
+msgstr	"Aloha Protocol"
+
+msgid	"animationAlohaText"
+msgstr	"Resolving the allocation channels at the wireless link layer"
+
+msgid	"animationEthernetTitle"
+msgstr	"Ethernet Protocol"
+
+msgid	"animationEthernetText"
+msgstr	"Operation of the standard protocol for wired networks."
+
+msgid	"animationSequenceNumberTitle"
+msgstr	"Sequence number and acknowledgment"
+
+msgid	"animationSequenceNumberText"
+msgstr	"Two of the most important fields of the TCP header."
+
+msgid   "youAreIn"
+msgstr  "You are in: "
+
+msgid "aboutApp"
+msgstr "About the app"
+
+msgid "aboutApp1"
+msgstr "The app "netanimations" for mobile devices was initially developed by Jonathan Rodrigues de Oliveira in 2014 and sustained by Alisson Renan Svaigen in 2015 and 2016. The app aims to provide the same animations in this repository, but in mobile format."
+
+msgid "aboutApp2"
+msgstr "Nowadays, it's provided to Android S.O. devices, in a "beta version". For the future, the app will be release in virtual stores of mobile S.O.'s, always free."
+
+msgid "features"
+msgstr "Some App features:"
+
+msgid "feature1"
+msgstr "Responsive animation format;"
+
+msgid "feature2"
+msgstr "Presentation of 7 animations;"
+
+msgid "feature3"
+msgstr "Animation's audio description, activated by config menu."
+
+msgid "download"
+msgstr "Download"
+
+msgid "aboutDown1"
+msgstr "Download the file "
+
+msgid "aboutDown2"
+msgstr " to your mobile and install it. It's important to say that is necessary activate the feature "instalation of unknown sources apps". Find out more here:"
+
+msgid "aboutDown3"
+msgstr "We motivate the users to test the app and report the found problems throw the "Contact" page in this repository."
+
+msgid "aboutDown4"
+msgstr "Good studies!"
